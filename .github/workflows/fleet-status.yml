@@ -1,0 +1,48 @@
+# Fleet status board — synoptic Layer 2 (monitoring).
+#
+# Runs synoptic's `status` mode against the bounded-systems org and commits a
+# freshness-stamped STATUS.md + status.json to THIS repo's main. This repo exists
+# precisely because bounded-systems/.github's main is ruleset-protected (PR-only +
+# signed) — here the board's bot can commit directly, the container's designed
+# self-update pattern. The tool stays bdelanghe/synoptic-github.
+#
+# AUTH: mint the prx-forge bucket via the OIDC token-broker (no PAT, no personal
+# token, no key in this repo) — per bounded-systems/prx github-apps-architecture.
+# prx-forge grants contents:write (push the board) + metadata/pull_requests/checks
+# read; the board reads CI via the Checks API (checks:read), so no actions:read.
+#
+# Schedule stays COMMENTED until a manual dispatch confirms green.
+name: fleet-status
+on:
+  # schedule:
+  #   - cron: '0 */6 * * *'   # enable after the first successful dispatch
+  workflow_dispatch: {}
+permissions:
+  id-token: write   # OIDC -> cf-token-broker, to mint the forge token
+  contents: read    # checkout; the board push uses the minted token, not this
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      # persist-credentials:false so the container's app-token push isn't overridden
+      # by checkout's default-token auth header.
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          persist-credentials: false
+
+      - name: Mint the prx-forge token via the OIDC broker
+        id: app-token
+        if: ${{ vars.FRONT_DESK_BROKER_URL != '' }}
+        uses: bounded-systems/.github/.github/actions/broker-gh-token@4a77867f40419ea5b38f3a3be7c481fa7e0eab84 # broker-gh-token (prx-26bq)
+        with:
+          app: forge
+          broker-url: ${{ vars.FRONT_DESK_BROKER_URL }}
+
+      - name: Fleet status board
+        if: ${{ steps.app-token.outputs.token != '' }}
+        uses: bdelanghe/synoptic-github@4128373fbf7ee807ad9f080d210770072b7de3b6 # v2.2.8 (CI via Checks API)
+        with:
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          mode: status
+          gh-user: bounded-systems
+          status-out: STATUS.md
