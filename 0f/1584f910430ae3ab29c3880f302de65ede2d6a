@@ -1,0 +1,21 @@
+README.md
+  s_daf186a10ceb79::t_6dd38edaad9605 2-15
+.github/workflows/fleet-status.yml
+  s_daf186a10ceb79::t_34a8c417bfef3c 1-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "0f1584f910430ae3ab29c3880f302de65ede2d6a",
+  "prompts": {},
+  "sessions": {
+    "s_daf186a10ceb79": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b12e51a-0fe8-4a34-b79d-f09c5a08f4ef",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Robert DeLanghe <1240090+bdelanghe@users.noreply.github.com>"
+    }
+  }
+}
