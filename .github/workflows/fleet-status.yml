@@ -14,8 +14,8 @@
 # Schedule stays COMMENTED until a manual dispatch confirms green.
 name: fleet-status
 on:
-  # schedule:
-  #   - cron: '0 */6 * * *'   # enable after the first successful dispatch
+  schedule:
+    - cron: '0 */6 * * *'   # every 6h
   workflow_dispatch: {}
 permissions:
   id-token: write   # OIDC -> cf-token-broker, to mint the forge token
