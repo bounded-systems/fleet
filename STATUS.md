@@ -1,13 +1,13 @@
 # bounded-systems — fleet status
 
-`69 repos` · 3 🔴 · 1 🟡 · 10 open PRs
+`72 repos` · 2 🔴 · 2 🟡 · 10 open PRs
 
 | repo | CI | PRs | issues | last push |
 | --- | :-: | --: | --: | --- |
 | [content-catalog](https://github.com/bounded-systems/content-catalog) | [🔴](https://github.com/bounded-systems/content-catalog/actions/runs/28432227708/job/84249447118) | 0 | 0 | 2026-06-26 |
 | [dev-contracts](https://github.com/bounded-systems/dev-contracts) | [🔴](https://github.com/bounded-systems/dev-contracts/actions/runs/28051087685/job/83041557751) | 0 | 1 | 2026-06-23 |
-| [fleet](https://github.com/bounded-systems/fleet) | [🔴](https://github.com/bounded-systems/fleet/actions/runs/28450957444/job/84312779714) | 0 | 0 | 2026-06-30 |
-| [prx](https://github.com/bounded-systems/prx) | [🟡](https://github.com/bounded-systems/prx/actions/runs/28451033172/job/84313066978) | 1 | 58 | 2026-06-30 |
+| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28451282914/job/84313939863) | 0 | 0 | 2026-06-30 |
+| [prx](https://github.com/bounded-systems/prx) | [🟡](https://github.com/bounded-systems/prx/actions/runs/28451275204/job/84314002831) | 1 | 58 | 2026-06-30 |
 | [anchored-chain](https://github.com/bounded-systems/anchored-chain) | [🟢](https://github.com/bounded-systems/anchored-chain/actions/runs/28402355462/job/84156541975) | 0 | 0 | 2026-06-29 |
 | [anchored-chain-sqlite](https://github.com/bounded-systems/anchored-chain-sqlite) | [🟢](https://github.com/bounded-systems/anchored-chain-sqlite/actions/runs/28402359607/job/84156552510) | 0 | 0 | 2026-06-29 |
 | [audit-context](https://github.com/bounded-systems/audit-context) | [🟢](https://github.com/bounded-systems/audit-context/actions/runs/28402328958/job/84156480583) | 0 | 0 | 2026-06-29 |
@@ -72,6 +72,9 @@
 | [dev-contracts-extract](https://github.com/bounded-systems/dev-contracts-extract) | ⚪ | 0 | 0 | 2026-06-23 |
 | [dev-contracts-transform](https://github.com/bounded-systems/dev-contracts-transform) | ⚪ | 0 | 0 | 2026-06-23 |
 | [dev-registry](https://github.com/bounded-systems/dev-registry) | ⚪ | 0 | 0 | 2026-06-23 |
+| [gh-action-brand-checks](https://github.com/bounded-systems/gh-action-brand-checks) | ⚪ | 0 | 0 | 2026-06-30 |
+| [gh-action-contracts](https://github.com/bounded-systems/gh-action-contracts) | ⚪ | 0 | 0 | 2026-06-30 |
+| [gh-action-node-uniqueness](https://github.com/bounded-systems/gh-action-node-uniqueness) | ⚪ | 0 | 0 | 2026-06-30 |
 | [unfold-obsidian-vault](https://github.com/bounded-systems/unfold-obsidian-vault) | ⚪ | 0 | 0 | 2026-06-23 |
 
-<sub>monitoring snapshot — 2026-06-30T14:16:07.081Z · live signal, not a reproducible artifact</sub>
+<sub>monitoring snapshot — 2026-06-30T14:18:31.466Z · live signal, not a reproducible artifact</sub>
