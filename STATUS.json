@@ -1,5 +1,5 @@
 {
-  "stampISO": "2026-06-30T19:47:26.515Z",
+  "stampISO": "2026-07-01T02:54:03.994Z",
   "statuses": [
     {
       "fullName": "bounded-systems/conformance",
@@ -20,26 +20,18 @@
     {
       "fullName": "bounded-systems/fleet",
       "ci": "pending",
-      "ciUrl": "https://github.com/bounded-systems/fleet/actions/runs/28471446831/job/84384871405",
-      "ciRunAt": "2026-06-30T19:47:07Z",
+      "ciUrl": "https://github.com/bounded-systems/fleet/actions/runs/28490207003/job/84445041165",
+      "ciRunAt": "2026-07-01T02:53:32Z",
       "openPRs": 0,
       "openIssues": 0
     },
     {
       "fullName": "bounded-systems/site",
       "ci": "failure",
-      "ciUrl": "https://github.com/bounded-systems/site/actions/runs/28463341824/job/84356669533",
-      "ciRunAt": "2026-06-30T18:26:53Z",
+      "ciUrl": "https://github.com/bounded-systems/site/actions/runs/28481081060/job/84417385684",
+      "ciRunAt": "2026-06-30T23:54:02Z",
       "openPRs": 0,
       "openIssues": 3
-    },
-    {
-      "fullName": "bounded-systems/prx",
-      "ci": "pending",
-      "ciUrl": "https://github.com/bounded-systems/prx/actions/runs/28471379175/job/84384782552",
-      "ciRunAt": "2026-06-30T19:47:04Z",
-      "openPRs": 4,
-      "openIssues": 58
     },
     {
       "fullName": "bounded-systems/lone",
@@ -50,12 +42,28 @@
       "openIssues": 1
     },
     {
+      "fullName": "bounded-systems/prx",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/prx/actions/runs/28487296649/job/84436399206",
+      "ciRunAt": "2026-07-01T01:33:59Z",
+      "openPRs": 51,
+      "openIssues": 58
+    },
+    {
       "fullName": "bounded-systems/hooksmith",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/hooksmith/actions/runs/28447392259/job/84300256690",
       "ciRunAt": "2026-06-30T13:19:16Z",
       "openPRs": 4,
       "openIssues": 1
+    },
+    {
+      "fullName": "bounded-systems/door-peercred",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/door-peercred/actions/runs/28447330547/job/84300071544",
+      "ciRunAt": "2026-06-30T13:18:15Z",
+      "openPRs": 0,
+      "openIssues": 0
     },
     {
       "fullName": "bounded-systems/git-ast",
@@ -78,14 +86,6 @@
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/door-scout/actions/runs/28447159443/job/84299466268",
       "ciRunAt": "2026-06-30T13:15:27Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
-      "fullName": "bounded-systems/door-peercred",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/door-peercred/actions/runs/28447330547/job/84300071544",
-      "ciRunAt": "2026-06-30T13:18:15Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -122,12 +122,12 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/mint",
+      "fullName": "bounded-systems/cf-oidc-token-broker",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/mint/actions/runs/28447115776/job/84299282386",
-      "ciRunAt": "2026-06-30T13:15:26Z",
+      "ciUrl": "https://github.com/bounded-systems/cf-oidc-token-broker/actions/runs/28447113479/job/84299302326",
+      "ciRunAt": "2026-06-30T13:14:44Z",
       "openPRs": 0,
-      "openIssues": 1
+      "openIssues": 0
     },
     {
       "fullName": "bounded-systems/deploy",
@@ -138,12 +138,12 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/cf-oidc-token-broker",
+      "fullName": "bounded-systems/mint",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/cf-oidc-token-broker/actions/runs/28447113479/job/84299302326",
-      "ciRunAt": "2026-06-30T13:14:44Z",
+      "ciUrl": "https://github.com/bounded-systems/mint/actions/runs/28447115776/job/84299282386",
+      "ciRunAt": "2026-06-30T13:15:26Z",
       "openPRs": 0,
-      "openIssues": 0
+      "openIssues": 1
     },
     {
       "fullName": "bounded-systems/guest-room",
@@ -178,10 +178,10 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/dev-contracts-spec",
+      "fullName": "bounded-systems/dev-contracts-validate",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/dev-contracts-spec/actions/runs/28447033176/job/84299011665",
-      "ciRunAt": "2026-06-30T13:13:28Z",
+      "ciUrl": "https://github.com/bounded-systems/dev-contracts-validate/actions/runs/28447037133/job/84299001116",
+      "ciRunAt": "2026-06-30T13:13:32Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -194,14 +194,6 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/dev-contracts-validate",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/dev-contracts-validate/actions/runs/28447037133/job/84299001116",
-      "ciRunAt": "2026-06-30T13:13:32Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
       "fullName": "bounded-systems/anchored-chain-sqlite",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/anchored-chain-sqlite/actions/runs/28402359607/job/84156552510",
@@ -210,18 +202,18 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/anchored-chain",
+      "fullName": "bounded-systems/dev-contracts-spec",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/anchored-chain/actions/runs/28402355462/job/84156541975",
-      "ciRunAt": "2026-06-29T21:01:24Z",
+      "ciUrl": "https://github.com/bounded-systems/dev-contracts-spec/actions/runs/28447033176/job/84299011665",
+      "ciRunAt": "2026-06-30T13:13:28Z",
       "openPRs": 0,
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/audit-context",
+      "fullName": "bounded-systems/anchored-chain",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/audit-context/actions/runs/28402328958/job/84156480583",
-      "ciRunAt": "2026-06-29T20:59:55Z",
+      "ciUrl": "https://github.com/bounded-systems/anchored-chain/actions/runs/28402355462/job/84156541975",
+      "ciRunAt": "2026-06-29T21:01:24Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -242,14 +234,6 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/git",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/git/actions/runs/28402315088/job/84156433410",
-      "ciRunAt": "2026-06-29T20:59:38Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
       "fullName": "bounded-systems/auth",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/auth/actions/runs/28402318800/job/84156421263",
@@ -258,10 +242,10 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/bd",
+      "fullName": "bounded-systems/git",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/bd/actions/runs/28402307133/job/84156381217",
-      "ciRunAt": "2026-06-29T21:00:27Z",
+      "ciUrl": "https://github.com/bounded-systems/git/actions/runs/28402315088/job/84156433410",
+      "ciRunAt": "2026-06-29T20:59:38Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -274,18 +258,26 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/policy",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/policy/actions/runs/28402304159/job/84156368741",
-      "ciRunAt": "2026-06-29T20:59:26Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
       "fullName": "bounded-systems/machine-schema",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/machine-schema/actions/runs/28402307211/job/84156403378",
       "ciRunAt": "2026-06-29T20:59:29Z",
+      "openPRs": 0,
+      "openIssues": 0
+    },
+    {
+      "fullName": "bounded-systems/bd",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/bd/actions/runs/28402307133/job/84156381217",
+      "ciRunAt": "2026-06-29T21:00:27Z",
+      "openPRs": 0,
+      "openIssues": 0
+    },
+    {
+      "fullName": "bounded-systems/policy",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/policy/actions/runs/28402304159/job/84156368741",
+      "ciRunAt": "2026-06-29T20:59:26Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -306,18 +298,18 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/disposition",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/disposition/actions/runs/28402297214/job/84156348697",
-      "ciRunAt": "2026-06-29T21:00:05Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
       "fullName": "bounded-systems/host",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/host/actions/runs/28469105707/job/84376584052",
       "ciRunAt": "2026-06-30T19:05:20Z",
+      "openPRs": 0,
+      "openIssues": 0
+    },
+    {
+      "fullName": "bounded-systems/disposition",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/disposition/actions/runs/28402297214/job/84156348697",
+      "ciRunAt": "2026-06-29T21:00:05Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -330,14 +322,6 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/slack",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/slack/actions/runs/28402291689/job/84156350280",
-      "ciRunAt": "2026-06-29T20:59:12Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
       "fullName": "bounded-systems/scout",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/scout/actions/runs/28402294361/job/84156339230",
@@ -346,18 +330,18 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/surface-sync",
+      "fullName": "bounded-systems/slack",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/surface-sync/actions/runs/28402287981/job/84156317130",
-      "ciRunAt": "2026-06-29T21:00:13Z",
+      "ciUrl": "https://github.com/bounded-systems/slack/actions/runs/28402291689/job/84156350280",
+      "ciRunAt": "2026-06-29T20:59:12Z",
       "openPRs": 0,
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/seam-check",
+      "fullName": "bounded-systems/surface-sync",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/seam-check/actions/runs/28402279751/job/84156287402",
-      "ciRunAt": "2026-06-29T21:00:00Z",
+      "ciUrl": "https://github.com/bounded-systems/surface-sync/actions/runs/28402287981/job/84156317130",
+      "ciRunAt": "2026-06-29T21:00:13Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -386,12 +370,12 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/string-audit",
+      "fullName": "bounded-systems/seam-check",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/string-audit/actions/runs/28371624506/job/84050547233",
-      "ciRunAt": "2026-06-29T12:22:48Z",
+      "ciUrl": "https://github.com/bounded-systems/seam-check/actions/runs/28402279751/job/84156287402",
+      "ciRunAt": "2026-06-29T21:00:00Z",
       "openPRs": 0,
-      "openIssues": 4
+      "openIssues": 0
     },
     {
       "fullName": "bounded-systems/brand",
@@ -400,6 +384,14 @@
       "ciRunAt": "2026-06-29T17:38:39Z",
       "openPRs": 0,
       "openIssues": 1
+    },
+    {
+      "fullName": "bounded-systems/string-audit",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/string-audit/actions/runs/28371624506/job/84050547233",
+      "ciRunAt": "2026-06-29T12:22:48Z",
+      "openPRs": 0,
+      "openIssues": 4
     },
     {
       "fullName": "bounded-systems/static-mcp",
@@ -436,16 +428,8 @@
     {
       "fullName": "bounded-systems/baobab",
       "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/baobab/actions/runs/28348720109/job/83977366514",
-      "ciRunAt": "2026-06-29T04:32:52Z",
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
-      "fullName": "bounded-systems/bounded.tools",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/bounded.tools/actions/runs/28358673481/job/84007737104",
-      "ciRunAt": "2026-06-29T08:26:04Z",
+      "ciUrl": "https://github.com/bounded-systems/baobab/actions/runs/28477813102/job/84406739095",
+      "ciRunAt": "2026-06-30T21:44:03Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -458,10 +442,10 @@
       "openIssues": 3
     },
     {
-      "fullName": "bounded-systems/unfold-obsidian-vault",
-      "ci": "none",
-      "ciUrl": null,
-      "ciRunAt": null,
+      "fullName": "bounded-systems/bounded.tools",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/bounded.tools/actions/runs/28358673481/job/84007737104",
+      "ciRunAt": "2026-06-29T08:26:04Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -474,18 +458,18 @@
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/content-catalog",
-      "ci": "failure",
-      "ciUrl": "https://github.com/bounded-systems/content-catalog/actions/runs/28432227708/job/84249447118",
-      "ciRunAt": "2026-06-30T08:52:32Z",
+      "fullName": "bounded-systems/unfold-obsidian-vault",
+      "ci": "none",
+      "ciUrl": null,
+      "ciRunAt": null,
       "openPRs": 0,
       "openIssues": 0
     },
     {
-      "fullName": "bounded-systems/lobby",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/lobby/actions/runs/28348719952/job/83977314373",
-      "ciRunAt": "2026-06-29T04:32:20Z",
+      "fullName": "bounded-systems/content-catalog",
+      "ci": "failure",
+      "ciUrl": "https://github.com/bounded-systems/content-catalog/actions/runs/28432227708/job/84249447118",
+      "ciRunAt": "2026-06-30T08:52:32Z",
       "openPRs": 0,
       "openIssues": 0
     },
@@ -498,11 +482,27 @@
       "openIssues": 0
     },
     {
+      "fullName": "bounded-systems/lobby",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/lobby/actions/runs/28348719952/job/83977314373",
+      "ciRunAt": "2026-06-29T04:32:20Z",
+      "openPRs": 0,
+      "openIssues": 0
+    },
+    {
       "fullName": "bounded-systems/lima-devshell",
       "ci": "success",
       "ciUrl": "https://github.com/bounded-systems/lima-devshell/actions/runs/28348717793/job/83977282069",
       "ciRunAt": "2026-06-29T04:32:01Z",
       "openPRs": 2,
+      "openIssues": 0
+    },
+    {
+      "fullName": "bounded-systems/frond",
+      "ci": "success",
+      "ciUrl": "https://github.com/bounded-systems/frond/actions/runs/28348717498/job/83977216638",
+      "ciRunAt": "2026-06-29T04:31:19Z",
+      "openPRs": 0,
       "openIssues": 0
     },
     {
@@ -518,14 +518,6 @@
       "ci": "none",
       "ciUrl": null,
       "ciRunAt": null,
-      "openPRs": 0,
-      "openIssues": 0
-    },
-    {
-      "fullName": "bounded-systems/frond",
-      "ci": "success",
-      "ciUrl": "https://github.com/bounded-systems/frond/actions/runs/28348717498/job/83977216638",
-      "ciRunAt": "2026-06-29T04:31:19Z",
       "openPRs": 0,
       "openIssues": 0
     },
