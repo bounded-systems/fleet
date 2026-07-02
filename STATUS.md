@@ -1,13 +1,13 @@
 # bounded-systems — fleet status
 
-`72 repos` · 3 🔴 · 1 🟡 · 61 open PRs
+`72 repos` · 3 🔴 · 1 🟡 · 62 open PRs
 
 | repo | CI | PRs | issues | last push |
 | --- | :-: | --: | --: | --- |
 | [content-catalog](https://github.com/bounded-systems/content-catalog) | [🔴](https://github.com/bounded-systems/content-catalog/actions/runs/28576883082/job/84727434570) | 0 | 0 | 2026-06-26 |
 | [dev-contracts](https://github.com/bounded-systems/dev-contracts) | [🔴](https://github.com/bounded-systems/dev-contracts/actions/runs/28051087685/job/83041557751) | 0 | 1 | 2026-06-23 |
-| [site](https://github.com/bounded-systems/site) | [🔴](https://github.com/bounded-systems/site/actions/runs/28568118857/job/84699606403) | 0 | 3 | 2026-06-30 |
-| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28577433358/job/84729208603) | 0 | 0 | 2026-07-02 |
+| [site](https://github.com/bounded-systems/site) | [🔴](https://github.com/bounded-systems/site/actions/runs/28585744741/job/84756802633) | 0 | 3 | 2026-06-30 |
+| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28594985553/job/84787936184) | 0 | 0 | 2026-07-02 |
 | [anchored-chain](https://github.com/bounded-systems/anchored-chain) | [🟢](https://github.com/bounded-systems/anchored-chain/actions/runs/28402355462/job/84156541975) | 0 | 0 | 2026-06-29 |
 | [anchored-chain-sqlite](https://github.com/bounded-systems/anchored-chain-sqlite) | [🟢](https://github.com/bounded-systems/anchored-chain-sqlite/actions/runs/28402359607/job/84156552510) | 0 | 0 | 2026-06-29 |
 | [audit-context](https://github.com/bounded-systems/audit-context) | [🟢](https://github.com/bounded-systems/audit-context/actions/runs/28402328958/job/84156480583) | 0 | 0 | 2026-06-29 |
@@ -52,9 +52,9 @@
 | [machine-schema](https://github.com/bounded-systems/machine-schema) | [🟢](https://github.com/bounded-systems/machine-schema/actions/runs/28402307211/job/84156403378) | 0 | 0 | 2026-06-29 |
 | [mint](https://github.com/bounded-systems/mint) | [🟢](https://github.com/bounded-systems/mint/actions/runs/28447115776/job/84299282386) | 0 | 1 | 2026-06-30 |
 | [ocap-provenance](https://github.com/bounded-systems/ocap-provenance) | [🟢](https://github.com/bounded-systems/ocap-provenance/actions/runs/28447079628/job/84299156938) | 0 | 0 | 2026-06-30 |
-| [policy](https://github.com/bounded-systems/policy) | [🟢](https://github.com/bounded-systems/policy/actions/runs/28402304159/job/84156368741) | 0 | 0 | 2026-06-29 |
+| [policy](https://github.com/bounded-systems/policy) | [🟢](https://github.com/bounded-systems/policy/actions/runs/28579547619/job/84736244779) | 0 | 0 | 2026-06-29 |
 | [proc](https://github.com/bounded-systems/proc) | [🟢](https://github.com/bounded-systems/proc/actions/runs/28402301305/job/84156379243) | 0 | 0 | 2026-06-29 |
-| [prx](https://github.com/bounded-systems/prx) | [🟢](https://github.com/bounded-systems/prx/actions/runs/28556154661/job/84663911859) | 52 | 58 | 2026-07-02 |
+| [prx](https://github.com/bounded-systems/prx) | [🟢](https://github.com/bounded-systems/prx/actions/runs/28592552855/job/84779531114) | 52 | 58 | 2026-07-02 |
 | [repo-root](https://github.com/bounded-systems/repo-root) | [🟢](https://github.com/bounded-systems/repo-root/actions/runs/28406989847/job/84171605518) | 0 | 0 | 2026-06-29 |
 | [schema-bridge](https://github.com/bounded-systems/schema-bridge) | [🟢](https://github.com/bounded-systems/schema-bridge/actions/runs/28348717374/job/83977205625) | 0 | 0 | 2026-06-23 |
 | [schema-gen](https://github.com/bounded-systems/schema-gen) | [🟢](https://github.com/bounded-systems/schema-gen/actions/runs/28402294383/job/84156338623) | 0 | 0 | 2026-06-29 |
@@ -63,10 +63,10 @@
 | [site-mcp](https://github.com/bounded-systems/site-mcp) | [🟢](https://github.com/bounded-systems/site-mcp/actions/runs/28491294077/job/84448371392) | 0 | 0 | 2026-06-29 |
 | [slack](https://github.com/bounded-systems/slack) | [🟢](https://github.com/bounded-systems/slack/actions/runs/28402291689/job/84156350280) | 0 | 0 | 2026-06-29 |
 | [static-mcp](https://github.com/bounded-systems/static-mcp) | [🟢](https://github.com/bounded-systems/static-mcp/actions/runs/28383820900/job/84093155938) | 0 | 1 | 2026-06-29 |
-| [string-audit](https://github.com/bounded-systems/string-audit) | [🟢](https://github.com/bounded-systems/string-audit/actions/runs/28371624506/job/84050547233) | 0 | 4 | 2026-06-29 |
+| [string-audit](https://github.com/bounded-systems/string-audit) | [🟢](https://github.com/bounded-systems/string-audit/actions/runs/28585234381/job/84755078969) | 0 | 4 | 2026-06-29 |
 | [surface-sync](https://github.com/bounded-systems/surface-sync) | [🟢](https://github.com/bounded-systems/surface-sync/actions/runs/28402287981/job/84156317130) | 0 | 0 | 2026-06-29 |
 | [trust](https://github.com/bounded-systems/trust) | [🟢](https://github.com/bounded-systems/trust/actions/runs/28348719992/job/83977368626) | 0 | 2 | 2026-06-29 |
-| [verbspec](https://github.com/bounded-systems/verbspec) | [🟢](https://github.com/bounded-systems/verbspec/actions/runs/28402284769/job/84156305953) | 1 | 0 | 2026-06-29 |
+| [verbspec](https://github.com/bounded-systems/verbspec) | [🟢](https://github.com/bounded-systems/verbspec/actions/runs/28402284769/job/84156305953) | 2 | 0 | 2026-06-29 |
 | [verify](https://github.com/bounded-systems/verify) | [🟢](https://github.com/bounded-systems/verify/actions/runs/28348720281/job/83977351780) | 0 | 0 | 2026-06-29 |
 | [conformance](https://github.com/bounded-systems/conformance) | ⚪ | 0 | 0 | 2026-06-30 |
 | [dev-contracts-extract](https://github.com/bounded-systems/dev-contracts-extract) | ⚪ | 0 | 0 | 2026-06-23 |
@@ -77,4 +77,4 @@
 | [gh-action-node-uniqueness](https://github.com/bounded-systems/gh-action-node-uniqueness) | ⚪ | 0 | 0 | 2026-06-30 |
 | [unfold-obsidian-vault](https://github.com/bounded-systems/unfold-obsidian-vault) | ⚪ | 0 | 0 | 2026-06-23 |
 
-<sub>monitoring snapshot — 2026-07-02T08:47:52.396Z · live signal, not a reproducible artifact</sub>
+<sub>monitoring snapshot — 2026-07-02T13:46:56.827Z · live signal, not a reproducible artifact</sub>
