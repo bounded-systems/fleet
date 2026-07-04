@@ -1,25 +1,26 @@
 # bounded-systems — fleet status
 
-`71 repos` · 5 🔴 · 1 🟡 · 68 open PRs
+`72 repos` · 5 🔴 · 1 🟡 · 69 open PRs
 
 | repo | CI | PRs | issues | last push |
 | --- | :-: | --: | --: | --- |
 | [brand](https://github.com/bounded-systems/brand) | [🔴](https://github.com/bounded-systems/brand/actions/runs/28617234716/job/84864003640) | 0 | 1 | 2026-07-02 |
-| [claude-box](https://github.com/bounded-systems/claude-box) | [🔴](https://github.com/bounded-systems/claude-box/actions/runs/28692902398/job/85097314242) | 1 | 11 | 2026-07-04 |
 | [content-catalog](https://github.com/bounded-systems/content-catalog) | [🔴](https://github.com/bounded-systems/content-catalog/actions/runs/28649208898/job/84962908235) | 0 | 0 | 2026-06-26 |
 | [dev-contracts](https://github.com/bounded-systems/dev-contracts) | [🔴](https://github.com/bounded-systems/dev-contracts/actions/runs/28051087685/job/83041557751) | 0 | 1 | 2026-06-23 |
-| [site](https://github.com/bounded-systems/site) | [🔴](https://github.com/bounded-systems/site/actions/runs/28705370692/job/85130057941) | 0 | 3 | 2026-07-02 |
-| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28707272526/job/85134919692) | 0 | 0 | 2026-07-04 |
+| [site](https://github.com/bounded-systems/site) | [🔴](https://github.com/bounded-systems/site/actions/runs/28714309194/job/85152934272) | 0 | 3 | 2026-07-02 |
+| [trellis](https://github.com/bounded-systems/trellis) | [🔴](https://github.com/bounded-systems/trellis/actions/runs/28715752029/job/85156745587) | 0 | 1 | 2026-07-04 |
+| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28716502321/job/85158739469) | 0 | 0 | 2026-07-04 |
 | [anchored-chain](https://github.com/bounded-systems/anchored-chain) | [🟢](https://github.com/bounded-systems/anchored-chain/actions/runs/28402355462/job/84156541975) | 0 | 0 | 2026-06-29 |
 | [anchored-chain-sqlite](https://github.com/bounded-systems/anchored-chain-sqlite) | [🟢](https://github.com/bounded-systems/anchored-chain-sqlite/actions/runs/28628528915/job/84900261318) | 0 | 0 | 2026-06-29 |
 | [audit-context](https://github.com/bounded-systems/audit-context) | [🟢](https://github.com/bounded-systems/audit-context/actions/runs/28693154240/job/85098046743) | 0 | 0 | 2026-06-29 |
-| [auth](https://github.com/bounded-systems/auth) | [🟢](https://github.com/bounded-systems/auth/actions/runs/28402318800/job/84156421263) | 0 | 0 | 2026-06-29 |
-| [baobab](https://github.com/bounded-systems/baobab) | [🟢](https://github.com/bounded-systems/baobab/actions/runs/28477813102/job/84406739095) | 0 | 0 | 2026-06-29 |
+| [auth](https://github.com/bounded-systems/auth) | [🟢](https://github.com/bounded-systems/auth/actions/runs/28713425423/job/85150623740) | 0 | 0 | 2026-06-29 |
+| [baobab](https://github.com/bounded-systems/baobab) | [🟢](https://github.com/bounded-systems/baobab/actions/runs/28477813102/job/84406739095) | 1 | 0 | 2026-07-04 |
 | [bd](https://github.com/bounded-systems/bd) | [🟢](https://github.com/bounded-systems/bd/actions/runs/28678580127/job/85057160520) | 0 | 0 | 2026-06-29 |
 | [bounded-tools-mcp](https://github.com/bounded-systems/bounded-tools-mcp) | [🟢](https://github.com/bounded-systems/bounded-tools-mcp/actions/runs/28418637893/job/84206942807) | 0 | 0 | 2026-06-29 |
 | [bounded.tools](https://github.com/bounded-systems/bounded.tools) | [🟢](https://github.com/bounded-systems/bounded.tools/actions/runs/28358673481/job/84007737104) | 0 | 0 | 2026-06-29 |
 | [cas](https://github.com/bounded-systems/cas) | [🟢](https://github.com/bounded-systems/cas/actions/runs/28401861469/job/84154898236) | 0 | 0 | 2026-06-30 |
 | [cf-oidc-token-broker](https://github.com/bounded-systems/cf-oidc-token-broker) | [🟢](https://github.com/bounded-systems/cf-oidc-token-broker/actions/runs/28447113479/job/84299302326) | 0 | 0 | 2026-06-30 |
+| [claude-box](https://github.com/bounded-systems/claude-box) | [🟢](https://github.com/bounded-systems/claude-box/runs/85154077528) | 1 | 11 | 2026-07-04 |
 | [claude-token-tools](https://github.com/bounded-systems/claude-token-tools) | [🟢](https://github.com/bounded-systems/claude-token-tools/actions/runs/28705075112/job/85129321138) | 0 | 0 | 2026-06-23 |
 | [conformance-kit](https://github.com/bounded-systems/conformance-kit) | [🟢](https://github.com/bounded-systems/conformance-kit/actions/runs/28701552169/job/85120326808) | 0 | 0 | 2026-06-30 |
 | [deploy](https://github.com/bounded-systems/deploy) | [🟢](https://github.com/bounded-systems/deploy/actions/runs/28447097971/job/84299215170) | 0 | 0 | 2026-06-30 |
@@ -27,8 +28,8 @@
 | [dev-contracts-validate](https://github.com/bounded-systems/dev-contracts-validate) | [🟢](https://github.com/bounded-systems/dev-contracts-validate/actions/runs/28700386967/job/85117309066) | 0 | 0 | 2026-06-30 |
 | [disposition](https://github.com/bounded-systems/disposition) | [🟢](https://github.com/bounded-systems/disposition/actions/runs/28402297214/job/84156348697) | 0 | 0 | 2026-06-29 |
 | [door-concierge](https://github.com/bounded-systems/door-concierge) | [🟢](https://github.com/bounded-systems/door-concierge/actions/runs/28620411384/job/84874448638) | 0 | 0 | 2026-06-30 |
-| [door-keeper](https://github.com/bounded-systems/door-keeper) | [🟢](https://github.com/bounded-systems/door-keeper/actions/runs/28565991804/job/84693281329) | 0 | 0 | 2026-06-30 |
-| [door-kit](https://github.com/bounded-systems/door-kit) | [🟢](https://github.com/bounded-systems/door-kit/actions/runs/28447085115/job/84299206977) | 0 | 0 | 2026-06-30 |
+| [door-keeper](https://github.com/bounded-systems/door-keeper) | [🟢](https://github.com/bounded-systems/door-keeper/actions/runs/28713712680/job/85151373654) | 0 | 1 | 2026-06-30 |
+| [door-kit](https://github.com/bounded-systems/door-kit) | [🟢](https://github.com/bounded-systems/door-kit/actions/runs/28713711999/job/85151372094) | 0 | 1 | 2026-06-30 |
 | [door-net](https://github.com/bounded-systems/door-net) | [🟢](https://github.com/bounded-systems/door-net/actions/runs/28683186517/job/85070708426) | 0 | 0 | 2026-06-30 |
 | [door-peercred](https://github.com/bounded-systems/door-peercred) | [🟢](https://github.com/bounded-systems/door-peercred/actions/runs/28705802287/job/85131126145) | 0 | 0 | 2026-06-30 |
 | [door-scout](https://github.com/bounded-systems/door-scout) | [🟢](https://github.com/bounded-systems/door-scout/actions/runs/28695200442/job/85103511519) | 0 | 0 | 2026-06-30 |
@@ -37,17 +38,17 @@
 | [fold-engine](https://github.com/bounded-systems/fold-engine) | [🟢](https://github.com/bounded-systems/fold-engine/actions/runs/28545523701/job/84629728407) | 0 | 0 | 2026-06-29 |
 | [frond](https://github.com/bounded-systems/frond) | [🟢](https://github.com/bounded-systems/frond/actions/runs/28674425656/job/85044686236) | 0 | 0 | 2026-06-23 |
 | [fs](https://github.com/bounded-systems/fs) | [🟢](https://github.com/bounded-systems/fs/actions/runs/28443905341/job/84288267438) | 0 | 0 | 2026-06-29 |
-| [gh](https://github.com/bounded-systems/gh) | [🟢](https://github.com/bounded-systems/gh/actions/runs/28402323577/job/84156463338) | 0 | 0 | 2026-06-29 |
-| [gh-project-room](https://github.com/bounded-systems/gh-project-room) | [🟢](https://github.com/bounded-systems/gh-project-room/actions/runs/28700383222/job/85117299077) | 0 | 3 | 2026-06-29 |
+| [gh](https://github.com/bounded-systems/gh) | [🟢](https://github.com/bounded-systems/gh/actions/runs/28707884040/job/85136487230) | 0 | 0 | 2026-06-29 |
+| [gh-project-room](https://github.com/bounded-systems/gh-project-room) | [🟢](https://github.com/bounded-systems/gh-project-room/runs/85157681673) | 0 | 3 | 2026-07-04 |
 | [git](https://github.com/bounded-systems/git) | [🟢](https://github.com/bounded-systems/git/actions/runs/28673214935/job/85040993763) | 0 | 0 | 2026-06-29 |
 | [git-ast](https://github.com/bounded-systems/git-ast) | [🟢](https://github.com/bounded-systems/git-ast/actions/runs/28669542611/job/85029405783) | 0 | 0 | 2026-06-30 |
 | [github-budget](https://github.com/bounded-systems/github-budget) | [🟢](https://github.com/bounded-systems/github-budget/actions/runs/28576714792/job/84726886651) | 0 | 0 | 2026-06-29 |
 | [guest-room](https://github.com/bounded-systems/guest-room) | [🟢](https://github.com/bounded-systems/guest-room/actions/runs/28447093627/job/84299199581) | 2 | 0 | 2026-06-30 |
-| [hooksmith](https://github.com/bounded-systems/hooksmith) | [🟢](https://github.com/bounded-systems/hooksmith/actions/runs/28447392259/job/84300256690) | 4 | 1 | 2026-06-30 |
+| [hooksmith](https://github.com/bounded-systems/hooksmith) | [🟢](https://github.com/bounded-systems/hooksmith/actions/runs/28710975342/job/85144360045) | 4 | 1 | 2026-06-30 |
 | [host](https://github.com/bounded-systems/host) | [🟢](https://github.com/bounded-systems/host/actions/runs/28469105707/job/84376584052) | 0 | 0 | 2026-06-29 |
 | [installer](https://github.com/bounded-systems/installer) | [🟢](https://github.com/bounded-systems/installer/actions/runs/28447124327/job/84299307237) | 0 | 0 | 2026-06-30 |
 | [lima-devshell](https://github.com/bounded-systems/lima-devshell) | [🟢](https://github.com/bounded-systems/lima-devshell/actions/runs/28599007684/job/84801902125) | 2 | 0 | 2026-06-23 |
-| [lobby](https://github.com/bounded-systems/lobby) | [🟢](https://github.com/bounded-systems/lobby/actions/runs/28348719952/job/83977314373) | 0 | 0 | 2026-06-23 |
+| [lobby](https://github.com/bounded-systems/lobby) | [🟢](https://github.com/bounded-systems/lobby/actions/runs/28713426198/job/85150625441) | 0 | 0 | 2026-06-23 |
 | [lone](https://github.com/bounded-systems/lone) | [🟢](https://github.com/bounded-systems/lone/actions/runs/28447609432/job/84301028941) | 0 | 1 | 2026-06-30 |
 | [machine-schema](https://github.com/bounded-systems/machine-schema) | [🟢](https://github.com/bounded-systems/machine-schema/actions/runs/28665542594/job/85016249918) | 0 | 0 | 2026-06-29 |
 | [mint](https://github.com/bounded-systems/mint) | [🟢](https://github.com/bounded-systems/mint/actions/runs/28447115776/job/84299282386) | 0 | 1 | 2026-06-30 |
@@ -61,7 +62,7 @@
 | [scout](https://github.com/bounded-systems/scout) | [🟢](https://github.com/bounded-systems/scout/actions/runs/28627867376/job/84898258592) | 0 | 0 | 2026-06-29 |
 | [seam-check](https://github.com/bounded-systems/seam-check) | [🟢](https://github.com/bounded-systems/seam-check/actions/runs/28402279751/job/84156287402) | 0 | 0 | 2026-06-29 |
 | [site-mcp](https://github.com/bounded-systems/site-mcp) | [🟢](https://github.com/bounded-systems/site-mcp/actions/runs/28491294077/job/84448371392) | 0 | 0 | 2026-06-29 |
-| [slack](https://github.com/bounded-systems/slack) | [🟢](https://github.com/bounded-systems/slack/actions/runs/28402291689/job/84156350280) | 0 | 0 | 2026-06-29 |
+| [slack](https://github.com/bounded-systems/slack) | [🟢](https://github.com/bounded-systems/slack/actions/runs/28714129303/job/85152458905) | 0 | 0 | 2026-06-29 |
 | [static-mcp](https://github.com/bounded-systems/static-mcp) | [🟢](https://github.com/bounded-systems/static-mcp/actions/runs/28383820900/job/84093155938) | 0 | 1 | 2026-06-29 |
 | [string-audit](https://github.com/bounded-systems/string-audit) | [🟢](https://github.com/bounded-systems/string-audit/actions/runs/28617632069/job/84865279419) | 0 | 4 | 2026-07-02 |
 | [surface-sync](https://github.com/bounded-systems/surface-sync) | [🟢](https://github.com/bounded-systems/surface-sync/actions/runs/28402287981/job/84156317130) | 0 | 0 | 2026-06-29 |
@@ -76,4 +77,4 @@
 | [gh-action-contracts](https://github.com/bounded-systems/gh-action-contracts) | ⚪ | 0 | 0 | 2026-06-30 |
 | [gh-action-node-uniqueness](https://github.com/bounded-systems/gh-action-node-uniqueness) | ⚪ | 0 | 0 | 2026-06-30 |
 
-<sub>monitoring snapshot — 2026-07-04T13:11:16.339Z · live signal, not a reproducible artifact</sub>
+<sub>monitoring snapshot — 2026-07-04T19:02:05.474Z · live signal, not a reproducible artifact</sub>
