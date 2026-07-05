@@ -1,13 +1,13 @@
 # bounded-systems — fleet status
 
-`72 repos` · 3 🔴 · 1 🟡 · 72 open PRs
+`72 repos` · 3 🔴 · 1 🟡 · 73 open PRs
 
 | repo | CI | PRs | issues | last push |
 | --- | :-: | --: | --: | --- |
 | [content-catalog](https://github.com/bounded-systems/content-catalog) | [🔴](https://github.com/bounded-systems/content-catalog/actions/runs/28649208898/job/84962908235) | 0 | 0 | 2026-06-26 |
 | [prx](https://github.com/bounded-systems/prx) | [🔴](https://github.com/bounded-systems/prx/actions/runs/28721021708/job/85170524250) | 59 | 59 | 2026-07-04 |
-| [site](https://github.com/bounded-systems/site) | [🔴](https://github.com/bounded-systems/site/actions/runs/28731073529/job/85196642772) | 1 | 3 | 2026-07-05 |
-| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28735206822/job/85208006054) | 0 | 0 | 2026-07-05 |
+| [site](https://github.com/bounded-systems/site) | [🔴](https://github.com/bounded-systems/site/actions/runs/28736298052/job/85210993180) | 2 | 3 | 2026-07-05 |
+| [fleet](https://github.com/bounded-systems/fleet) | [🟡](https://github.com/bounded-systems/fleet/actions/runs/28742125694/job/85226652683) | 0 | 0 | 2026-07-05 |
 | [anchored-chain](https://github.com/bounded-systems/anchored-chain) | [🟢](https://github.com/bounded-systems/anchored-chain/actions/runs/28402355462/job/84156541975) | 0 | 0 | 2026-06-29 |
 | [anchored-chain-sqlite](https://github.com/bounded-systems/anchored-chain-sqlite) | [🟢](https://github.com/bounded-systems/anchored-chain-sqlite/actions/runs/28628528915/job/84900261318) | 0 | 0 | 2026-06-29 |
 | [audit-context](https://github.com/bounded-systems/audit-context) | [🟢](https://github.com/bounded-systems/audit-context/actions/runs/28693154240/job/85098046743) | 0 | 0 | 2026-06-29 |
@@ -68,7 +68,7 @@
 | [surface-sync](https://github.com/bounded-systems/surface-sync) | [🟢](https://github.com/bounded-systems/surface-sync/actions/runs/28402287981/job/84156317130) | 0 | 0 | 2026-06-29 |
 | [trellis](https://github.com/bounded-systems/trellis) | [🟢](https://github.com/bounded-systems/trellis/runs/85191958188) | 0 | 1 | 2026-07-05 |
 | [trellis-kit](https://github.com/bounded-systems/trellis-kit) | [🟢](https://github.com/bounded-systems/trellis-kit/actions/runs/28727788173/job/85188082801) | 0 | 0 | 2026-07-05 |
-| [trust](https://github.com/bounded-systems/trust) | [🟢](https://github.com/bounded-systems/trust/runs/85163984833) | 0 | 2 | 2026-07-04 |
+| [trust](https://github.com/bounded-systems/trust) | [🟢](https://github.com/bounded-systems/trust/actions/runs/28738375006/job/85216595556) | 0 | 2 | 2026-07-05 |
 | [verbspec](https://github.com/bounded-systems/verbspec) | [🟢](https://github.com/bounded-systems/verbspec/actions/runs/28637300195/job/84926211510) | 2 | 0 | 2026-06-29 |
 | [verify](https://github.com/bounded-systems/verify) | [🟢](https://github.com/bounded-systems/verify/actions/runs/28670104057/job/85031183077) | 0 | 0 | 2026-06-29 |
 | [conformance](https://github.com/bounded-systems/conformance) | ⚪ | 0 | 0 | 2026-06-30 |
@@ -77,4 +77,4 @@
 | [gh-action-contracts](https://github.com/bounded-systems/gh-action-contracts) | ⚪ | 0 | 0 | 2026-06-30 |
 | [gh-action-node-uniqueness](https://github.com/bounded-systems/gh-action-node-uniqueness) | ⚪ | 0 | 0 | 2026-06-30 |
 
-<sub>monitoring snapshot — 2026-07-05T08:46:05.367Z · live signal, not a reproducible artifact</sub>
+<sub>monitoring snapshot — 2026-07-05T13:19:42.883Z · live signal, not a reproducible artifact</sub>
