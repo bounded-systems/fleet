@@ -26,14 +26,14 @@ jobs:
     steps:
       # persist-credentials:false so the container's app-token push isn't overridden
       # by checkout's default-token auth header.
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v4
         with:
           persist-credentials: false
 
       - name: Mint the prx-forge token via the OIDC broker
         id: app-token
         if: ${{ vars.FRONT_DESK_BROKER_URL != '' }}
-        uses: bounded-systems/.github/.github/actions/broker-gh-token@4a77867f40419ea5b38f3a3be7c481fa7e0eab84 # broker-gh-token (prx-26bq)
+        uses: bounded-systems/.github/.github/actions/broker-gh-token@99e88a0335519cb78be8a1b6623105613fa6aca1 # broker-gh-token (prx-26bq)
         with:
           app: forge
           broker-url: ${{ vars.FRONT_DESK_BROKER_URL }}
